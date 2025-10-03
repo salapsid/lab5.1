@@ -1,0 +1,4 @@
+Running: xsim.dir/slc3_tb_simple_behav/xsimk.exe -simmode gui -wdb slc3_tb_simple_behav.wdb -simrunnum 0 -socket 51444
+Design successfully loaded
+Design Loading Memory Usage: 9188 KB (Peak: 9188 KB)
+Design Loading CPU Usage: 92 ms

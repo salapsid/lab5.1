@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "uvm" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "slc3_tb_simple_behav" "xil_defaultlib.slc3_tb_simple" "xil_defaultlib.glbl" -log "elaborate.log" 
